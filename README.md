@@ -37,7 +37,7 @@ Add to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  panorama_viewer_custom: ^1.0.0
+  tst_pana: ^1.0.0
 ```
 
 Then run:
@@ -68,7 +68,7 @@ In `ios/Runner/Info.plist`:
 ## Basic Usage
 
 ```dart
-import 'package:panorama_viewer_custom/panorama_viewer_custom.dart';
+import 'package:tst_pana/panorama_viewer_custom.dart';
 
 // Asset image
 CustomPanoramaViewer(
